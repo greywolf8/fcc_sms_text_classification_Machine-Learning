@@ -1,1 +1,2 @@
 Fix typo in documentation — 2025-04-06 19:40:20
+Update changelog — 2025-04-09 09:02:33
